@@ -1,0 +1,102 @@
+.App{
+width: 770px;
+margin: auto;
+}
+.logo{
+    width: 200px;
+    margin-top: 15px;
+}
+
+.menu{
+    width: 300px;
+    display: flex;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Gilroy;
+    height: 28px;
+    color: rgba(0, 51, 153, 1);
+    justify-content: space-between;
+    margin-top: 28px;
+}
+.menu div{
+    height: 28px;
+    line-height: 28px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 56px;
+}
+.maincontent{
+   
+   width: 770px;
+   height: 670px;
+    margin: auto;
+   
+    margin-top: 40px;
+}
+.number{
+    width: 585px;
+    font-size: 288px;
+    font-family: Gilroy;
+    font-weight: 400; 
+    color: rgba(242, 124, 15, 1);
+     text-align: center;
+     margin: auto;
+}
+.buttons{
+    width: 740px;
+    height: 116px;
+    display: flex;
+    margin-bottom: 185px;
+    justify-content: space-between;
+    margin: auto;
+    padding: 29px 0;
+  
+    
+    
+}
+button{
+    width: 200px;
+    height: 58px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    color: 
+    rgba(255, 255, 255, 1);
+    border-radius: 4px;
+    border: 0;
+   
+    
+}
+.blue{
+    background-color: #003399;
+
+  
+}
+.orange{
+    background-color: rgba(242, 124, 15, 1);
+}
+.grey{
+    background-color: rgba(229, 229, 229, 1);
+}
+.footer{
+    width:770px;
+    display: flex;
+    justify-content: space-between;
+}
+.footermenu{
+    width: 350px;
+    display: flex;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.5);
+    justify-content: space-around;
+    font-weight: 500;
+
+}
+.link{
+    width: 180px;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 500;
+}
